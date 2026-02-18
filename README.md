@@ -8,11 +8,19 @@ Original Dataset:
 Source:
 https://www.kaggle.com/datasets/divanshu22/electricity-consumption-dataset
 
-Data Handling Approach:
-- Raw dataset stored in /data/raw
-- No structural modifications applied to original data
-- Derived datasets generated through documented transformation workflows
+**Note:**
+GitHub does not render large Excel files in-browser.
 
+**Access:**
+Download the workbook directly from the repository.
+
+
+## Data Handling Approach
+
+The source dataset is retained in its original structure.
+
+All analytical outputs are derived through reproducible validation,
+transformation, and aggregation workflows implemented within the repository scripts.
 
 
 
