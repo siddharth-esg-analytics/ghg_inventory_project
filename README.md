@@ -2,10 +2,11 @@
 
 This project uses publicly available electricity consumption data.
 
-Original Dataset:Electricity Consumption Dataset 
-Author:divanshu22 / Panda-monium
+**Original Dataset**:Electricity Consumption Dataset
 
-Source:
+**Author**:divanshu22 / Panda-monium
+
+**Source:**
 https://www.kaggle.com/datasets/divanshu22/electricity-consumption-dataset
 
 **Note:**
