@@ -1,3 +1,21 @@
+## Data Source
+
+This project uses publicly available electricity consumption data.
+
+Original Dataset:
+[Electricity Consumption Dataset / divanshu22 / Panda-monium]
+
+Source:
+https://www.kaggle.com/datasets/divanshu22/electricity-consumption-dataset
+
+Data Handling Approach:
+- Raw dataset stored in /data/raw
+- No structural modifications applied to original data
+- Derived datasets generated through documented transformation workflows
+
+
+
+
 # GHG Inventory Scope 2 Analytics Pipeline
 
 ## Overview
