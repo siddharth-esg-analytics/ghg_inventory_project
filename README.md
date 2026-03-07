@@ -54,9 +54,9 @@ Data cleaning, validation, and aggregation logic
 Auditable analytical models and assumptions framework
 
 /outputs  
-01_minute_level_energy_validation_summary.csv
-02_hourly_energy_consumption_clean.csv
-hourly_scope_2_aggregation_data.xlsx
+- 01_minute_level_energy_validation_summary.csv
+- 02_hourly_energy_consumption_clean.csv
+- hourly_scope_2_aggregation_data.xlsx
 
 ---
 
